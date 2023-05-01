@@ -161,15 +161,3 @@ SpacesInSquareBrackets: false
 
 # Line endings
 UseCRLF: false
-
-Language: ObjC
-IndentWidth: 4
-BreakBeforeBraces: Custom
-BraceWrapping:
-    AfterObjCDeclaration: true
-
-ObjCBinPackProtocolList: Never
-ObjCBlockIndentWidth: 4
-ObjCBreakBeforeNestedBlockParam: true
-ObjCSpaceAfterProperty: true
-ObjCSpaceBeforeProtocolList: false
